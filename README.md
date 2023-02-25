@@ -22,4 +22,4 @@ The [Open Trivia DB](https://opentdb.com/) was used to retrieve the questions.
 
 ## View the App
 
--On [Netlify]()
+-On [Netlify](https://masterminds-23.netlify.app/)
